@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(208, 255, 0);
+   }   
+p {
+    color: rgb(72, 77, 173);
+}
+h1{
+    text-shadow: 5px 5px 5px blue;
+}
+a {
+    text-shadow: 5px 5px 5px blue;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid  rgb(9, 12, 20);
+    font-size: 30px;
+}
+img {
+    box-shadow: 5px 5px 5px blue;
+}
+p {
+    text-shadow: 5px 5px 5px blue;
+}
